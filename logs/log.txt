@@ -1,0 +1,242 @@
+DELETE /newpost2.txt HTTP/1.1
+Content-Type: text/plain
+User-Agent: PostmanRuntime/7.28.2
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: e5084947-84e4-469f-b3a1-1005c5f7cd45
+Host: localhost:8096
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=
+Content-Length: 16
+
+Hello underworldDELETE /newpost2.txt HTTP/1.1
+Content-Type: text/plain
+User-Agent: PostmanRuntime/7.28.2
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 1f958788-840a-47ac-bc59-735957a315c8
+Host: localhost:8096
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=
+Content-Length: 16
+
+Hello underworld Client: Socket[addr=/0:0:0:0:0:0:0:1,port=58974,localport=8096]
+ method: DELETE
+ path: /newpost2.txt
+ version: HTTP/1.1
+ host: text/plain
+ headers: [User-Agent: PostmanRuntime/7.28.2, Accept: */*, Cache-Control: no-cache, Postman-Token: 1f958788-840a-47ac-bc59-735957a315c8, Host: localhost:8096, Accept-Encoding: gzip, deflate, br, Connection: keep-alive, Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=, Content-Length: 16, , Hello underworld]
+GET /newpost2.txt HTTP/1.1
+User-Agent: PostmanRuntime/7.28.2
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: f80c0705-e838-4e3c-b741-d42346c5e343
+Host: localhost:8096
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=
+
+ Client: Socket[addr=/0:0:0:0:0:0:0:1,port=50897,localport=8096]
+ method: GET
+ path: /newpost2.txt
+ version: HTTP/1.1
+ host: PostmanRuntime/7.28.2
+ headers: [Accept: */*, Cache-Control: no-cache, Postman-Token: f80c0705-e838-4e3c-b741-d42346c5e343, Host: localhost:8096, Accept-Encoding: gzip, deflate, br, Connection: keep-alive, Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+GET /newpost2.txt HTTP/1.1
+User-Agent: PostmanRuntime/7.28.2
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: c6257c4f-1ab9-479f-b3ba-210548f381e7
+Host: localhost:8096
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+ Client: Socket[addr=/0:0:0:0:0:0:0:1,port=54866,localport=8096]
+ method: GET
+ path: /newpost2.txt
+ version: HTTP/1.1
+ host: PostmanRuntime/7.28.2
+ headers: [Accept: */*, Cache-Control: no-cache, Postman-Token: c6257c4f-1ab9-479f-b3ba-210548f381e7, Host: localhost:8096, Accept-Encoding: gzip, deflate, br, Connection: keep-alive]
+GET /newpost2.txt HTTP/1.1
+User-Agent: PostmanRuntime/7.28.2
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: ba81bd31-9a20-433e-a910-68d8185a6dae
+Host: localhost:8096
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+ Client: Socket[addr=/0:0:0:0:0:0:0:1,port=59843,localport=8096]
+ method: GET
+ path: /newpost2.txt
+ version: HTTP/1.1
+ host: PostmanRuntime/7.28.2
+ headers: [Accept: */*, Cache-Control: no-cache, Postman-Token: ba81bd31-9a20-433e-a910-68d8185a6dae, Host: localhost:8096, Accept-Encoding: gzip, deflate, br, Connection: keep-alive]
+GET /newpost2.txt HTTP/1.1
+User-Agent: PostmanRuntime/7.28.2
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 98ba56b3-ccd0-4f07-9e69-e5a0bc2dbf97
+Host: localhost:8096
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=
+
+ Client: Socket[addr=/0:0:0:0:0:0:0:1,port=59848,localport=8096]
+ method: GET
+ path: /newpost2.txt
+ version: HTTP/1.1
+ host: PostmanRuntime/7.28.2
+ headers: [Accept: */*, Cache-Control: no-cache, Postman-Token: 98ba56b3-ccd0-4f07-9e69-e5a0bc2dbf97, Host: localhost:8096, Accept-Encoding: gzip, deflate, br, Connection: keep-alive, Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+GET /newpost2.txt HTTP/1.1
+Authorization: Basic Og==
+User-Agent: PostmanRuntime/7.28.2
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 2dcf912a-9309-43e8-89e8-2cbec5537472
+Host: localhost:8096
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+ Client: Socket[addr=/0:0:0:0:0:0:0:1,port=60528,localport=8096]
+ method: GET
+ path: /newpost2.txt
+ version: HTTP/1.1
+ host: Basic
+ headers: [User-Agent: PostmanRuntime/7.28.2, Accept: */*, Cache-Control: no-cache, Postman-Token: 2dcf912a-9309-43e8-89e8-2cbec5537472, Host: localhost:8096, Accept-Encoding: gzip, deflate, br, Connection: keep-alive]
+GET /newpost2.txt HTTP/1.1
+Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=
+User-Agent: PostmanRuntime/7.28.2
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: 120d0a46-1e25-4234-a5c9-bc0e953aa2cc
+Host: localhost:8096
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+ Client: Socket[addr=/0:0:0:0:0:0:0:1,port=60533,localport=8096]
+ method: GET
+ path: /newpost2.txt
+ version: HTTP/1.1
+ host: Basic
+ headers: [User-Agent: PostmanRuntime/7.28.2, Accept: */*, Cache-Control: no-cache, Postman-Token: 120d0a46-1e25-4234-a5c9-bc0e953aa2cc, Host: localhost:8096, Accept-Encoding: gzip, deflate, br, Connection: keep-alive]
+GET /95992-01.mp3 HTTP/1.1
+Host: localhost:8096
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: jenkins-timestamper-offset=-3600000; __utmz=111872281.1644759133.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.1.1759465334.1644759133; __utma=111872281.1759465334.1644759133.1645306475.1645308542.12
+
+ Client: Socket[addr=/0:0:0:0:0:0:0:1,port=60537,localport=8096]
+ method: GET
+ path: /95992-01.mp3
+ version: HTTP/1.1
+ host: localhost:8096
+ headers: [Connection: keep-alive, sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98", sec-ch-ua-mobile: ?0, sec-ch-ua-platform: "Windows", Upgrade-Insecure-Requests: 1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36, Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9, Sec-Fetch-Site: none, Sec-Fetch-Mode: navigate, Sec-Fetch-User: ?1, Sec-Fetch-Dest: document, Accept-Encoding: gzip, deflate, br, Accept-Language: en-US,en;q=0.9, Cookie: jenkins-timestamper-offset=-3600000; __utmz=111872281.1644759133.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.1.1759465334.1644759133; __utma=111872281.1759465334.1644759133.1645306475.1645308542.12]
+GET /log.txt HTTP/1.1
+Host: localhost:8096
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: jenkins-timestamper-offset=-3600000; __utmz=111872281.1644759133.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.1.1759465334.1644759133; __utma=111872281.1759465334.1644759133.1645306475.1645308542.12
+
+ Client: Socket[addr=/0:0:0:0:0:0:0:1,port=60544,localport=8096]
+ method: GET
+ path: /log.txt
+ version: HTTP/1.1
+ host: localhost:8096
+ headers: [Connection: keep-alive, sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98", sec-ch-ua-mobile: ?0, sec-ch-ua-platform: "Windows", Upgrade-Insecure-Requests: 1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36, Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9, Sec-Fetch-Site: none, Sec-Fetch-Mode: navigate, Sec-Fetch-User: ?1, Sec-Fetch-Dest: document, Accept-Encoding: gzip, deflate, br, Accept-Language: en-US,en;q=0.9, Cookie: jenkins-timestamper-offset=-3600000; __utmz=111872281.1644759133.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.1.1759465334.1644759133; __utma=111872281.1759465334.1644759133.1645306475.1645308542.12]
+GET /log.txt HTTP/1.1
+Host: localhost:8096
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: jenkins-timestamper-offset=-3600000; __utmz=111872281.1644759133.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.1.1759465334.1644759133; __utma=111872281.1759465334.1644759133.1645306475.1645308542.12
+
+ Client: Socket[addr=/0:0:0:0:0:0:0:1,port=60567,localport=8096]
+ method: GET
+ path: /log.txt
+ version: HTTP/1.1
+ host: localhost:8096
+ headers: [Connection: keep-alive, Cache-Control: max-age=0, sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98", sec-ch-ua-mobile: ?0, sec-ch-ua-platform: "Windows", Upgrade-Insecure-Requests: 1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36, Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9, Sec-Fetch-Site: none, Sec-Fetch-Mode: navigate, Sec-Fetch-User: ?1, Sec-Fetch-Dest: document, Accept-Encoding: gzip, deflate, br, Accept-Language: en-US,en;q=0.9, Cookie: jenkins-timestamper-offset=-3600000; __utmz=111872281.1644759133.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.1.1759465334.1644759133; __utma=111872281.1759465334.1644759133.1645306475.1645308542.12]
+GET /log.txt HTTP/1.1
+Host: localhost:8096
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: jenkins-timestamper-offset=-3600000; __utmz=111872281.1644759133.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.1.1759465334.1644759133; __utma=111872281.1759465334.1644759133.1645306475.1645308542.12
+
+ Client: Socket[addr=/0:0:0:0:0:0:0:1,port=60594,localport=8096]
+ method: GET
+ path: /log.txt
+ version: HTTP/1.1
+ host: localhost:8096
+ headers: [Connection: keep-alive, Cache-Control: max-age=0, sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98", sec-ch-ua-mobile: ?0, sec-ch-ua-platform: "Windows", Upgrade-Insecure-Requests: 1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36, Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9, Sec-Fetch-Site: none, Sec-Fetch-Mode: navigate, Sec-Fetch-User: ?1, Sec-Fetch-Dest: document, Accept-Encoding: gzip, deflate, br, Accept-Language: en-US,en;q=0.9, Cookie: jenkins-timestamper-offset=-3600000; __utmz=111872281.1644759133.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.1.1759465334.1644759133; __utma=111872281.1759465334.1644759133.1645306475.1645308542.12]
+GET /log.txt HTTP/1.1
+Host: localhost:8096
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: jenkins-timestamper-offset=-3600000; __utmz=111872281.1644759133.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.1.1759465334.1644759133; __utma=111872281.1759465334.1644759133.1645306475.1645308542.12
+
+ Client: Socket[addr=/0:0:0:0:0:0:0:1,port=60602,localport=8096]
+ method: GET
+ path: /log.txt
+ version: HTTP/1.1
+ host: localhost:8096
+ headers: [Connection: keep-alive, Cache-Control: max-age=0, sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98", sec-ch-ua-mobile: ?0, sec-ch-ua-platform: "Windows", Upgrade-Insecure-Requests: 1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36, Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9, Sec-Fetch-Site: none, Sec-Fetch-Mode: navigate, Sec-Fetch-User: ?1, Sec-Fetch-Dest: document, Accept-Encoding: gzip, deflate, br, Accept-Language: en-US,en;q=0.9, Cookie: jenkins-timestamper-offset=-3600000; __utmz=111872281.1644759133.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.1.1759465334.1644759133; __utma=111872281.1759465334.1644759133.1645306475.1645308542.12]
